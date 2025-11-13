@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'TechBusiness - Transform Your Digital Future',
-  description: 'Empowering businesses with cutting-edge technology solutions that drive growth, innovation, and success in the digital age.',
+  description: 'Professional technology solutions for modern businesses. Custom software development, cloud infrastructure, mobile apps, AI analytics, cybersecurity & IoT integration services.',
 };
 
 export default function RootLayout({

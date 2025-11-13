@@ -57,16 +57,16 @@ export default function ContactForm() {
             Get In Touch
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-            Ready to transform your business? Let's start a conversation about your project
+            Ready to transform your business? Let's start a conversation about your project and discover how we can help you achieve your goals.
           </p>
         </div>
 
         <div className="max-w-5xl mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
             <div>
-              <h3 className="text-3xl font-bold text-gray-900 mb-6">Let's Talk</h3>
+              <h3 className="text-3xl font-bold text-gray-900 mb-6">Let's Talk Business</h3>
               <p className="text-gray-600 mb-8 leading-relaxed text-lg">
-                Whether you have a question about our services, pricing, or anything else, our team is ready to answer all your questions.
+                Whether you have questions about our services, need a custom quote, or want to discuss your next project, our expert team is ready to provide personalized solutions for your business needs.
               </p>
 
               <div className="space-y-6">
@@ -96,7 +96,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <h4 className="font-bold text-gray-900 mb-1">Live Chat</h4>
-                    <p className="text-gray-600">Available 24/7 for support</p>
+                    <p className="text-gray-600">Available Mon-Fri 9AM-6PM EST</p>
                   </div>
                 </div>
               </div>
@@ -183,7 +183,7 @@ export default function ContactForm() {
                       required
                       rows={5}
                       className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-600 focus:border-transparent transition-all resize-none"
-                      placeholder="Tell us about your project..."
+                      placeholder="Describe your project requirements, timeline, and how we can help your business succeed..."
                     />
                   </div>
 
@@ -201,6 +201,10 @@ export default function ContactForm() {
                       </>
                     )}
                   </button>
+                  
+                  <p className="text-sm text-gray-500 text-center mt-4">
+                    We typically respond within 2-4 business hours. All inquiries are handled with complete confidentiality.
+                  </p>
                 </form>
               )}
             </div>
