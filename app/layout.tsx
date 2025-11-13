@@ -5,8 +5,8 @@ import './globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'TechBusiness - Transform Your Digital Future',
-  description: 'Professional technology solutions for modern businesses. Custom software development, cloud infrastructure, mobile apps, AI analytics, cybersecurity & IoT integration services.',
+  title: 'TestFounder - AI-Powered Autonomous Founder Agent',
+  description: 'TestFounder is your 24/7 autonomous founder agent with advanced AI capabilities and startup expertise. Launch, scale, and optimize your business automatically.',
 };
 
 export default function RootLayout({
