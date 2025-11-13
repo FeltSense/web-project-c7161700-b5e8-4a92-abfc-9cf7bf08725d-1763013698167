@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'TestFounder - AI-Powered Autonomous Founder Agent',
-  description: 'TestFounder is your 24/7 autonomous founder agent with advanced AI capabilities and startup expertise. Launch, scale, and optimize your business automatically.',
+  description: 'Transform your startup with TestFounder - the AI-powered autonomous founder agent that works 24/7. Get expert startup guidance, automated business optimization, and intelligent scaling solutions.',
 };
 
 export default function RootLayout({
